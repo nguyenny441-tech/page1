@@ -1,2 +1,2 @@
 # page1 
-![image alt](https://github.com/nguyenny441-tech/page1/blob/e5b0d9f60e16…14112ede/z7814948910489_1f22ba360c5b173d97cb0cbb6e761195.jpg)
+![image alt](https://github.com/nguyenny441-tech/page1/blob/93f59631db1a91777f14dbffec9e67034ee358d0/f7c85231-415f-4f5e-9c29-1c76a61dd7d0.png)
